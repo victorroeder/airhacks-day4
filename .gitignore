@@ -1,3 +1,9 @@
 repo.git.tar
 target/
 .DS_Store
+/dom/nbproject/
+/webstorage/nbproject/private/
+/geolocation/nbproject/private/
+/csspreprocessor/nbproject/private/
+/gulp-sample/nbproject/private/
+/sample-gulp/nbproject/private/
